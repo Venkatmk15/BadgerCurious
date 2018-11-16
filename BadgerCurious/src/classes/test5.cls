@@ -2,7 +2,7 @@ public with sharing class test5
 {
 	public void test()
 	{
-		system.debug('test11');
+		system.debug('test');
 	}
     
 }
